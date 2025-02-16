@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--https://ci.android.com/builds/submitted/9964412/kernel_virt_x86_64/latest/manifest_9964412.xml-->
-<manifest>
+<manifest>fpgurzu
   <remote name="aosp" fetch="https://android.googlesource.com/" review="https://android.googlesource.com/" />
 
-  <default revision="master" remote="aosp" sync-j="4" />
+  <默认 revision="master" remote="aosp" sync-j="4" />
 
   <superproject name="kernel/superproject" remote="aosp" revision="common-android14-6.1" />
 
